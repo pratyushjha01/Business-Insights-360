@@ -93,7 +93,7 @@ The data model integrates sales, forecasting, pricing, manufacturing costs, frei
 
 ### Data Model Diagram
 
-(Add Data Model Screenshot Here)
+![Data Model](data_model.png)
 
 ---
 
@@ -109,7 +109,7 @@ The data model integrates sales, forecasting, pricing, manufacturing costs, frei
 
 #### Sales Dashboard
 
-(Add Sales Dashboard Screenshot Here)
+![Sales Dashboard](Sales%20(2).png)
 
 ---
 
@@ -122,7 +122,7 @@ The data model integrates sales, forecasting, pricing, manufacturing costs, frei
 
 #### Finance Dashboard
 
-(Add Finance Dashboard Screenshot Here)
+![Finance Dashboard](Finance%20(1).png)
 
 ---
 
@@ -134,7 +134,7 @@ The data model integrates sales, forecasting, pricing, manufacturing costs, frei
 
 #### Marketing Dashboard
 
-(Add Marketing Dashboard Screenshot Here)
+![Marketing Dashboard](Marketing%20(3).png)
 
 ---
 
@@ -147,7 +147,7 @@ The data model integrates sales, forecasting, pricing, manufacturing costs, frei
 
 #### Supply Chain Dashboard
 
-(Add Supply Chain Dashboard Here)
+![Supply Chain Dashboard](Supply%20Chain%20(4).png)
 
 ---
 
@@ -161,7 +161,7 @@ The data model integrates sales, forecasting, pricing, manufacturing costs, frei
 
 #### Executive Dashboard
 
-(Add Executive Dashboard Screenshot Here)
+![Executive Dashboard](Executive%20(5).png)
 
 ---
 
