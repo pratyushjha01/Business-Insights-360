@@ -93,7 +93,7 @@ The data model integrates sales, forecasting, pricing, manufacturing costs, frei
 
 ### Data Model Diagram
 
-![Data Model](data_model.png)
+![Data Model](Data_Model.png)
 
 ---
 
