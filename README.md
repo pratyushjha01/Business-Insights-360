@@ -209,7 +209,14 @@ The solution helps bridge the gap between data and decision-making by delivering
 
 ---
 
+## Live Dashboard
+
+🔗 View Interactive Power BI Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiN2VhNTBkZmQtYzc0ZC00OGRiLThlNDMtZWNkYzg1OWIzMDE5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+---
+
 ## Note
 
-This project was developed as part of the Codebasics Data Analytics Bootcamp. I independently built the dashboard, data model, DAX measures, and visualizations while following the business requirements provided in the program.
+This project demonstrates my ability to build an end-to-end Business Intelligence solution, including data modeling, KPI development, DAX calculations, dashboard design, and business performance analysis.
 
